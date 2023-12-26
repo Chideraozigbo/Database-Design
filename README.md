@@ -28,7 +28,7 @@ The database design includes tables such as `EmployeesInfo`, `WorkHistory`, `Emp
 
 For a detailed explanation of the project, database schema, and implementation details, check out the corresponding Medium article:
 
-[![Database Design I: Employee Attrition Management System](https://miro.medium.com/max/1400/1*r1vMiaqFJytCPM5DA93HSg.png)](https://medium.com/@chideraozigbo/database-design-i-employee-attrition-management-system-25d89503c08b)
+[Database Design I: Employee Attrition Management System](https://medium.com/@chideraozigbo/database-design-i-employee-attrition-management-system-25d89503c08b).
 
 
 ## Contributions
